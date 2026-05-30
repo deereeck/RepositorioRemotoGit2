@@ -8,6 +8,8 @@ public class ClaseRama1 {
 		
         System.out.println("Hamburguesa");
         System.out.println("Pollo");
+        System.out.println("Brocoli");
+        System.out.println("Pimiento");
 	}
 
 }
